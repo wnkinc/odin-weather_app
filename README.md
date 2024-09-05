@@ -1,3 +1,3 @@
-# Odin-template
+# odin-weather_app
 
-LIVE PREVIEW - http://wnkinc.github.io/Odin-template
+LIVE PREVIEW - http://wnkinc.github.io/odin-weather_app
