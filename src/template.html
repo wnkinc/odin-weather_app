@@ -3,7 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Weather API</title>
   </head>
-  <body></body>
+  <body>
+    <form action="" id="getWeatherForm">
+      <input type="text" id="city" placeholder="City" />
+      <input type="text" id="state" placeholder="State" />
+      <button class="getWeatherButton">Submit</button>
+    </form>
+    <div class="tempContainer">
+      <div class="loading">Loading...</div>
+      <div class="temp"></div>
+    </div>
+  </body>
 </html>
